@@ -3,6 +3,7 @@
 ### Обзор
 * Интро
 * Figma
+* Ссылка
 
 **Интро**
 
@@ -25,3 +26,6 @@ HTML/CSS
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
+**Ссылка**
+
+* [Ссылка на Проектную работу №3](https://artizl.github.io/russian-travel/)
